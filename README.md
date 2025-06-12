@@ -29,7 +29,7 @@ This Power BI report visualizes the Amazon Prime movie and show listings dataset
 
 ## 🖼️ Report Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](Images/dashboard_preview.png)
 
 ## 🛠️ Tools Used
 - Power BI
